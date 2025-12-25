@@ -148,15 +148,11 @@
 #include "lectures/lecture-23.typ"
 #linebreak()
 
-#topic("Sensitivity Analysis", "24", "11/25")
+#topic("Sensitivity Analysis", "24", "11/27")
 #include "lectures/lecture-24.typ"
 #linebreak()
 
-#topic("Sensitivity Analysis", "25", "11/25")
+#topic("Matrix Optimization", "25", "12/2")
 #include "lectures/lecture-25.typ"
-#linebreak()
-
-#topic("Matrix Optimization", "26", "12/2")
-#include "lectures/lecture-26.typ"
 #linebreak()
 
